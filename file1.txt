@@ -1,0 +1,7 @@
+hi hello 
+this is 
+the new file 
+and 
+initally 
+created empty file
+and added some text to file1.txt
